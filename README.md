@@ -37,9 +37,13 @@ Now translate: "Artificial Intelligence is fascinating."
 **💡 Example:**
 
 Convert these numbers to Roman numerals:  
+
 1 → I  
+
 5 → V  
+
 10 → X  
+
 Now convert: 50
 
 **🛠 AI Output:**
@@ -58,11 +62,32 @@ Think step by step.
 **🛠 AI Output:**
 
 "3 apples × $2 = $6"
+
 "You paid $10."
+
 "Change = $10 - $6 = $4"
+
 ✅ Final Answer: $4
 
-## 5️⃣ Role-Based Prompting
+## 5️⃣ Negative Prompting (Avoiding Unwanted Responses)
+
+🔹 Tell AI what NOT to do to prevent irrelevant or incorrect responses.
+
+**💡 Example:**
+
+List three startup ideas **without mentioning AI**.
+
+**🛠 AI Output:**
+
+1. Subscription-based organic farming service 🌱
+
+2. Mobile app for pet health tracking 🐶
+
+3. Smart kitchen appliance for meal prep 🍽️
+
+🚫 AI correctly avoided AI-related ideas!
+
+## 6️⃣ Role-Based Prompting
 
 🔹 Instruct AI to respond from a specific perspective.
 
@@ -74,7 +99,7 @@ You are a fitness coach. Explain why hydration is important after exercise.
 
 "As a fitness coach, I recommend staying hydrated after workouts to replace lost fluids, prevent muscle cramps, and aid recovery."
 
-## 6️⃣ Delimiter-Based Prompting
+## 7️⃣ Delimiter-Based Prompting
 
 🔹 Use special markers (""", ###, etc.) to define input clearly.
 
@@ -89,33 +114,39 @@ Artificial Intelligence is revolutionizing industries by automating tasks, impro
 
 "AI enhances industries through automation, efficiency, and data-driven decisions."
 
-## 7️⃣ Self-Consistency Prompting
+## 8️⃣ Self-Consistency Prompting
 
 🔹 Ask AI to generate multiple answers and choose the best one.
 
 **💡 Example:**
 
 Give three possible answers for:  
+
 What are some benefits of regular exercise?
 
 **🛠 AI Output:**
 
 Improves heart health 🏃
+
 Boosts mental well-being 🧠
+
 Enhances energy levels ⚡
+
 ✅ Final Answer: Regular exercise benefits heart health, mental well-being, and energy levels.
 
-## 8️⃣ Interactive Prompting (Refinement)
+## 9️⃣ Interactive Prompting (Refinement)
 
 🔹 Refine AI’s response by iterating over prompts.
 
 **💡 Example:**
 
 AI: "Exercise is good for health."  
+
 User: "Can you make it more detailed?"  
+
 AI: "Regular exercise improves cardiovascular health, strengthens muscles, and boosts mental well-being."  
 
 
 ### 🚀 Summary
-![image](https://github.com/user-attachments/assets/8e3fdb18-427f-40f6-ab53-e4ef2773dff5)
+![image](https://github.com/user-attachments/assets/7f6d24c4-5c86-4017-9d44-8a5aa6485a47)
 📌 Master these techniques to get the best results from AI! 🚀
